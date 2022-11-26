@@ -1,0 +1,26 @@
+.container-chuck{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.photo-chuck{
+    width: 40%;
+    height: 50%;
+}
+.icons-like-dislike{
+    display: flex;
+    background-color: #d2c9c996;
+    padding: 1%;
+    border-radius: 20px;
+    align-items: center;
+    margin-top: 30px;
+}
+.icon-dislike{
+    margin-right: 10px;
+    margin-left: 30px;
+    color: red;
+}
+.icon-like{
+    margin-right: 10px;
+    color: rgb(34, 204, 34);
+}
